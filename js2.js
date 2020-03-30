@@ -1,14 +1,21 @@
-let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-console.log(arr);
+let arrayLength = parseInt(prompt('Nhập vào số lượng phần tử của mảng: '));
+let array = [];
+for (let i = 0; i < arrayLength; i++) {
+    array.push(Math.round(Math.random() * 10));
+}
+console.log(array);
 
-function tryRemoteFromArray(array, number) {
-    for (let i = 0; i < array.length; i++) {
-        if (number === array[i]) {
-            array.splice(i, 1);
+let x = parseInt(prompt("Nhập giá trị của số nguyên x"));
+
+function tryRemoveFromArray(arr, value) {
+    for (let i = 0; i < arr.length; i++) {
+        if (value === arr[i]) {
+            arr.splice(i,1);
+            i--;
         }
     }
+    return arr;
 }
 
-let x = +prompt();
-tryRemoteFromArray(arr, x);
-console.log(arr);
+tryRemoveFromArray(array,x);
+console.log(array);

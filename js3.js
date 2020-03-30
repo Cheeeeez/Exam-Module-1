@@ -1,6 +1,5 @@
 let fibonacci = [];
 fibonacci.push(1, 1);
-console.log(fibonacci);
 for (let i = 2; i < 100; i++) {
     fibonacci[i] = fibonacci[i - 2] + fibonacci[i - 1];
 }

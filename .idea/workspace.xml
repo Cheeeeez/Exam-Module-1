@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e10603ac-e61e-4eee-a25e-2f0d268ad7c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Exam-Module-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js2.js" beforeDir="false" afterPath="$PROJECT_DIR$/js2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js3.js" beforeDir="false" afterPath="$PROJECT_DIR$/js3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js4.js" beforeDir="false" afterPath="$PROJECT_DIR$/js4.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585554173231</updated>
-      <workItem from="1585554174474" duration="8186000" />
+      <workItem from="1585554174474" duration="10468000" />
     </task>
     <servers />
   </component>
